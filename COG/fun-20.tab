@@ -1,0 +1,26 @@
+J	FFA500	Translation, ribosomal structure and biogenesis
+A	FCDCFC	RNA processing and modification
+K	00BFFF	Transcription
+L	7FFF00	Replication, recombination and repair
+B	4B0082	Chromatin structure and dynamics
+D	D2691E	Cell cycle control, cell division, chromosome partitioning
+Y	D8BFD8	Nuclear structure
+V	8B008B	Defense mechanisms
+T	FFFF00	Signal transduction mechanisms
+M	FF4500	Cell wall/membrane/envelope biogenesis
+N	00FA9A	Cell motility
+Z	006400	Cytoskeleton
+W	7B68EE	Extracellular structures
+U	40E0D0	Intracellular trafficking, secretion, and vesicular transport
+O	00FFFF	Posttranslational modification, protein turnover, chaperones
+X	9CFC9C	Mobilome: prophages, transposons
+C	8B4513	Energy production and conversion
+G	D2B48C	Carbohydrate transport and metabolism
+E	FF1493	Amino acid transport and metabolism
+F	0000FF	Nucleotide transport and metabolism
+H	A0522D	Coenzyme transport and metabolism
+I	4682B4	Lipid transport and metabolism
+P	00FF7F	Inorganic ion transport and metabolism
+Q	A9A9A9	Secondary metabolites biosynthesis, transport and catabolism
+R	DEB887	General function prediction only
+S	CCCCCC	Function unknown
