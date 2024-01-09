@@ -32,7 +32,7 @@ conda activate omics
 ```
 
 ## Datasets and metabolomic analysis
-The LC-MS/MS data and compound annotation  workflows are available at the following links
+The LC-MS/MS data and compound-annotation  workflows are available at the following links
 
 **Zenodo**
 
@@ -46,4 +46,7 @@ The LC-MS/MS data and compound annotation  workflows are available at the follow
 
 
 
+## Acknowledgements
+[Prokka](https://pubmed.ncbi.nlm.nih.gov/24642063/) - Seemann T. Prokka: rapid prokaryotic genome annotation. Bioinformatics. 2014 Jul 15;30(14):2068-9. doi: 10.1093/bioinformatics/btu153. Epub 2014 Mar 18. PMID: 24642063.
 
+[AntiSMASH](https://academic.oup.com/nar/article/51/W1/W46/7151336?login=false) - Kai Blin, Simon Shaw, Hannah E Augustijn, Zachary L Reitz, Friederike Biermann, Mohammad Alanjary, Artem Fetter, Barbara R Terlouw, William W Metcalf, Eric J N Helfrich, Gilles P van Wezel, Marnix H Medema, Tilmann Weber, antiSMASH 7.0: new and improved predictions for detection, regulation, chemical structures and visualisation, Nucleic Acids Research, Volume 51, Issue W1, 5 July 2023, Pages W46–W50
