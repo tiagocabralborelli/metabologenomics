@@ -31,3 +31,19 @@ conda env create -f omics_env.yml
 conda activate omics 
 ```
 
+## Datasets and metabolomic analysis
+The LC-MS/MS data and compound annotation  workflows are available at the following links
+
+**Zenodo**
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10366840.svg)](https://doi.org/10.5281/zenodo.10366840)
+
+**GNPS tools**
+    
+[Feature Based Molecular Networking](https://gnps2.org/status?task=7b134da60f0f4a80aec790d2a294aedd)
+
+[Chemwalker Nextflow](https://gnps2.org/status?task=9141a5cdabf842d39387e514e5305398)
+
+
+
+
