@@ -45,6 +45,13 @@ The LC-MS/MS data and compound-annotation  workflows are available at the follow
 [Chemwalker Nextflow](https://gnps2.org/status?task=9141a5cdabf842d39387e514e5305398)
 
 
+**NCBI**
+
+
+MinION: [SAMN39609461](https://www.ncbi.nlm.nih.gov/biosample?Db=biosample&Cmd=ShowDetailView&TermToSearch=39609461)
+
+Illumina: [SAMN29586427](https://www.ncbi.nlm.nih.gov/biosample/?term=SAMN29586427)
+
 
 ## Acknowledgements
 [Prokka](https://pubmed.ncbi.nlm.nih.gov/24642063/) - Seemann T. Prokka: rapid prokaryotic genome annotation. Bioinformatics. 2014 Jul 15;30(14):2068-9. doi: 10.1093/bioinformatics/btu153. Epub 2014 Mar 18. PMID: 24642063.
